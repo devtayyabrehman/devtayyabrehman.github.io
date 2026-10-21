@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#0E1512"/>
+  <text x="72" y="84" fill="#F0F5F1" font-family="Arial,sans-serif" font-size="30" font-weight="700">Crawled, Not Indexed: Check in This Order</text>
+  <text x="72" y="120" fill="#95A69A" font-family="Arial,sans-serif" font-size="18">Fix the evidence-backed cause before requesting another crawl.</text>
+  <path d="M600 157v46M600 203H251v34m349-34h349v34" stroke="#506256" stroke-width="3"/>
+  <rect x="80" y="237" width="342" height="105" rx="16" fill="#152019" stroke="#00E87A"/>
+  <text x="108" y="275" fill="#00E87A" font-family="Arial,sans-serif" font-size="16" font-weight="700">TECHNICAL ELIGIBILITY</text>
+  <text x="108" y="310" fill="#E1EAE3" font-family="Arial,sans-serif" font-size="18">200 · accessible · indexable?</text>
+  <rect x="429" y="237" width="342" height="105" rx="16" fill="#151C25" stroke="#4D8EFF"/>
+  <text x="457" y="275" fill="#7EA9FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">URL SIGNALS</text>
+  <text x="457" y="310" fill="#E1E6EF" font-family="Arial,sans-serif" font-size="18">Canonical · duplicate · links?</text>
+  <rect x="778" y="237" width="342" height="105" rx="16" fill="#201B13" stroke="#F5A623"/>
+  <text x="806" y="275" fill="#F5A623" font-family="Arial,sans-serif" font-size="16" font-weight="700">PAGE VALUE</text>
+  <text x="806" y="310" fill="#EEE7D9" font-family="Arial,sans-serif" font-size="18">Distinct · complete · useful?</text>
+  <path d="M251 342v49m349-49v49m349-49v49" stroke="#506256" stroke-width="3"/>
+  <rect x="80" y="391" width="342" height="98" rx="16" fill="#111813"/>
+  <text x="108" y="431" fill="#CBD9CF" font-family="Arial,sans-serif" font-size="18" font-weight="700">Correct access or directives</text>
+  <text x="108" y="461" fill="#95A69A" font-family="Arial,sans-serif" font-size="16">Test raw and rendered HTML</text>
+  <rect x="429" y="391" width="342" height="98" rx="16" fill="#11171D"/>
+  <text x="457" y="431" fill="#D0D9E8" font-family="Arial,sans-serif" font-size="18" font-weight="700">Consolidate true duplicates</text>
+  <text x="457" y="461" fill="#97A3B6" font-family="Arial,sans-serif" font-size="16">Align canonical and internal links</text>
+  <rect x="778" y="391" width="342" height="98" rx="16" fill="#18150F"/>
+  <text x="806" y="431" fill="#E8DFCC" font-family="Arial,sans-serif" font-size="18" font-weight="700">Improve or consolidate</text>
+  <text x="806" y="461" fill="#B6AA91" font-family="Arial,sans-serif" font-size="16">Add distinct help, not filler</text>
+  <text x="80" y="548" fill="#9EAEA2" font-family="Arial,sans-serif" font-size="17">The status is a clue for investigation, not a diagnosis by itself.</text>
+</svg>

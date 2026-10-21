@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#12101A"/>
+  <text x="72" y="84" fill="#F4F0FA" font-family="Arial,sans-serif" font-size="30" font-weight="700">A Chatbot Should Have Boundaries</text>
+  <text x="72" y="120" fill="#B4A9C4" font-family="Arial,sans-serif" font-size="18">Protect secrets, constrain data, and provide a human path.</text>
+  <rect x="75" y="181" width="235" height="210" rx="18" fill="#201A2A" stroke="#A78BFA"/>
+  <text x="101" y="220" fill="#C5ABFF" font-family="Arial,sans-serif" font-size="15" font-weight="700">VISITOR MESSAGE</text>
+  <path d="M103 251h163m-163 27h134m-134 27h150" stroke="#776989" stroke-width="8" stroke-linecap="round"/>
+  <text x="101" y="359" fill="#C7BBD6" font-family="Arial,sans-serif" font-size="15">Minimize personal data</text>
+  <path d="M325 285h69m-16-15 16 15-16 15" stroke="#C1A9F0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="411" y="181" width="315" height="210" rx="18" fill="#151B27" stroke="#4D8EFF"/>
+  <text x="439" y="220" fill="#7EA9FF" font-family="Arial,sans-serif" font-size="15" font-weight="700">SERVER GATEWAY</text>
+  <text x="439" y="267" fill="#E2E9F4" font-family="Arial,sans-serif" font-size="17">Validate · rate limit</text>
+  <text x="439" y="303" fill="#E2E9F4" font-family="Arial,sans-serif" font-size="17">Retrieve approved sources</text>
+  <text x="439" y="339" fill="#E2E9F4" font-family="Arial,sans-serif" font-size="17">Keep API key on server</text>
+  <text x="439" y="375" fill="#E2E9F4" font-family="Arial,sans-serif" font-size="17">Enforce permissions</text>
+  <path d="M741 285h69m-16-15 16 15-16 15" stroke="#C1A9F0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="827" y="181" width="298" height="210" rx="18" fill="#17201B" stroke="#00E87A"/>
+  <text x="855" y="220" fill="#00E87A" font-family="Arial,sans-serif" font-size="15" font-weight="700">RESPONSE POLICY</text>
+  <text x="855" y="267" fill="#E3EEE6" font-family="Arial,sans-serif" font-size="17">Answer from trusted source</text>
+  <text x="855" y="303" fill="#E3EEE6" font-family="Arial,sans-serif" font-size="17">Say when it is uncertain</text>
+  <text x="855" y="339" fill="#E3EEE6" font-family="Arial,sans-serif" font-size="17">Link to source page</text>
+  <text x="855" y="375" fill="#E3EEE6" font-family="Arial,sans-serif" font-size="17">Offer human handoff</text>
+  <rect x="75" y="437" width="1050" height="94" rx="15" fill="#17131E"/>
+  <text x="103" y="476" fill="#E7DFEF" font-family="Arial,sans-serif" font-size="18" font-weight="700">Never let generated text authorize account, payment, or customer-data actions.</text>
+  <text x="103" y="507" fill="#B3A8C2" font-family="Arial,sans-serif" font-size="16">Application code—not the model—must enforce access control.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11151A"/>
+  <text x="72" y="86" fill="#F1F5F2" font-family="Arial,sans-serif" font-size="31" font-weight="700">A checkout bump is optional before payment</text>
+  <rect x="72" y="205" width="270" height="240" rx="18" fill="#1A2024" stroke="#76B5F0" stroke-width="3"/>
+  <text x="105" y="254" fill="#90C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">CURRENT CART</text>
+  <text x="105" y="312" fill="#E5EBEF" font-family="Arial,sans-serif" font-size="18">Main product</text>
+  <text x="105" y="353" fill="#B6C3CD" font-family="Arial,sans-serif" font-size="17">Subtotal + shipping</text>
+  <text x="105" y="394" fill="#B6C3CD" font-family="Arial,sans-serif" font-size="17">Customer reviews</text>
+  <path d="M362 325h92m-18-18 18 18-18 18" stroke="#8FA4B8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="477" y="185" width="340" height="280" rx="18" fill="#252018" stroke="#E7BB61" stroke-width="3"/>
+  <text x="512" y="233" fill="#F4CE7B" font-family="Arial,sans-serif" font-size="19" font-weight="700">OPTIONAL ORDER BUMP</text>
+  <rect x="512" y="264" width="270" height="64" rx="11" fill="#171510" stroke="#6B5836"/>
+  <text x="534" y="304" fill="#EEE4CF" font-family="Arial,sans-serif" font-size="17">Add a related item · $12</text>
+  <text x="512" y="370" fill="#C5B99F" font-family="Arial,sans-serif" font-size="16">Clear price and choice</text>
+  <text x="512" y="408" fill="#C5B99F" font-family="Arial,sans-serif" font-size="16">Recalculate before submit</text>
+  <path d="M837 325h82m-18-18 18 18-18 18" stroke="#8FA4B8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="943" y="205" width="220" height="240" rx="18" fill="#18231D" stroke="#59D59F" stroke-width="3"/>
+  <text x="976" y="254" fill="#78E5B3" font-family="Arial,sans-serif" font-size="19" font-weight="700">ORDER</text>
+  <text x="976" y="312" fill="#E4ECE6" font-family="Arial,sans-serif" font-size="18">Correct line item</text>
+  <text x="976" y="353" fill="#B5C7BA" font-family="Arial,sans-serif" font-size="17">Tax and stock</text>
+  <text x="976" y="394" fill="#B5C7BA" font-family="Arial,sans-serif" font-size="17">Payment + email</text>
+  <text x="72" y="532" fill="#BDC3C8" font-family="Arial,sans-serif" font-size="18">A bump is distinct from a cart cross-sell or post-purchase upsell.</text>
+</svg>

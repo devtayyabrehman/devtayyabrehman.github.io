@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11141A"/>
+  <text x="72" y="86" fill="#F3F4F6" font-family="Arial,sans-serif" font-size="31" font-weight="700">Match the WordPress request to the template type</text>
+  <rect x="72" y="235" width="235" height="145" rx="16" fill="#1C2029" stroke="#7AB4F5" stroke-width="3"/>
+  <text x="100" y="282" fill="#92C4FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">SINGLE PROJECT</text>
+  <text x="100" y="330" fill="#E3E8EF" font-family="monospace" font-size="17">single-project.php</text>
+  <rect x="337" y="235" width="235" height="145" rx="16" fill="#20251F" stroke="#67D49F" stroke-width="3"/>
+  <text x="365" y="282" fill="#7DE5B0" font-family="Arial,sans-serif" font-size="19" font-weight="700">PROJECT ARCHIVE</text>
+  <text x="365" y="330" fill="#E4EBE6" font-family="monospace" font-size="17">archive-project.php</text>
+  <rect x="602" y="235" width="235" height="145" rx="16" fill="#25201B" stroke="#E8BC62" stroke-width="3"/>
+  <text x="630" y="282" fill="#F4D27D" font-family="Arial,sans-serif" font-size="19" font-weight="700">WORDPRESS PAGE</text>
+  <text x="630" y="330" fill="#EEE8DC" font-family="Arial,sans-serif" font-size="17">Assigned page template</text>
+  <rect x="867" y="235" width="250" height="145" rx="16" fill="#211D29" stroke="#C38AF0" stroke-width="3"/>
+  <text x="895" y="282" fill="#D2A7FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">BLOCK THEME</text>
+  <text x="895" y="330" fill="#EAE3F0" font-family="monospace" font-size="17">templates/*.html</text>
+  <path d="M180 180v40h840v-40M300 220v15m265-15v15m265-15v15m265-15v15" stroke="#77869B" stroke-width="3" stroke-dasharray="6 6"/>
+  <rect x="454" y="135" width="292" height="55" rx="13" fill="#242936"/>
+  <text x="485" y="171" fill="#D6DDE7" font-family="Arial,sans-serif" font-size="20">Identify the request</text>
+  <text x="72" y="490" fill="#BAC2CE" font-family="Arial,sans-serif" font-size="18">The hierarchy chooses a file; ACF fields provide the record's content.</text>
+</svg>

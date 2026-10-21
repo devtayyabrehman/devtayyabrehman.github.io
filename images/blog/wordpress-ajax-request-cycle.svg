@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#15131F"/>
+  <text x="76" y="96" fill="#F3EFFB" font-family="Arial,sans-serif" font-size="34" font-weight="700">AJAX: Update One Part, Keep the Page</text>
+  <text x="76" y="137" fill="#B6ADC7" font-family="Arial,sans-serif" font-size="20">A browser request still needs a safe server-side handler.</text>
+  <rect x="78" y="210" width="270" height="226" rx="22" fill="#201C2D" stroke="#A78BFA" stroke-width="2"/>
+  <text x="112" y="261" fill="#C2A9FF" font-family="Arial,sans-serif" font-size="18" font-weight="700">VISITOR</text>
+  <rect x="112" y="290" width="202" height="50" rx="12" fill="#12101B" stroke="#51436D"/>
+  <text x="132" y="322" fill="#D8D0E5" font-family="Arial,sans-serif" font-size="17">Search: blue mug</text>
+  <text x="112" y="387" fill="#AFA4C0" font-family="Arial,sans-serif" font-size="16">Form or search input</text>
+  <path d="M371 281h183m-18-17 18 17-18 17" stroke="#B59EFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="386" y="252" fill="#AFA4C0" font-family="Arial,sans-serif" font-size="16">fetch() + JSON</text>
+  <rect x="566" y="210" width="270" height="226" rx="22" fill="#1B1C29" stroke="#4D8EFF" stroke-width="2"/>
+  <text x="600" y="261" fill="#79A9FF" font-family="Arial,sans-serif" font-size="18" font-weight="700">WORDPRESS</text>
+  <text x="600" y="315" fill="#F0F2F8" font-family="Arial,sans-serif" font-size="23" font-weight="700">REST endpoint</text>
+  <text x="600" y="357" fill="#ADB5C8" font-family="Arial,sans-serif" font-size="17">Validate · authorize</text>
+  <text x="600" y="386" fill="#ADB5C8" font-family="Arial,sans-serif" font-size="17">Return permitted data</text>
+  <path d="M859 281h183m-18-17 18 17-18 17" stroke="#B59EFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="882" y="252" fill="#AFA4C0" font-family="Arial,sans-serif" font-size="16">JSON response</text>
+  <rect x="1054" y="210" width="72" height="226" rx="18" fill="#17231E" stroke="#00E87A" stroke-width="2"/>
+  <text x="1068" y="276" fill="#00E87A" font-family="Arial,sans-serif" font-size="16" font-weight="700">UI</text>
+  <text x="1065" y="321" fill="#D6E8DD" font-family="Arial,sans-serif" font-size="14">Results</text>
+  <text x="1065" y="350" fill="#D6E8DD" font-family="Arial,sans-serif" font-size="14">Loading</text>
+  <text x="1065" y="379" fill="#D6E8DD" font-family="Arial,sans-serif" font-size="14">Errors</text>
+  <rect x="78" y="481" width="1048" height="78" rx="16" fill="#100F17" stroke="#3E354C"/>
+  <text x="112" y="528" fill="#E2DCEF" font-family="Arial,sans-serif" font-size="20">Use REST for resources; keep secrets and permission checks on the server.</text>
+</svg>

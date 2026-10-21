@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#10251F"/><stop offset="1" stop-color="#10251F"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E87A"/><stop offset="1" stop-color="#00BFA5"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#8CA4B8" stroke-opacity=".065"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#grid)" d="M0 0h1200v630H0z"/>
+  <circle cx="918" cy="311" r="210" fill="#00E87A" fill-opacity=".07"/>
+  <rect x="646" y="130" width="424" height="370" rx="24" fill="#111B25" stroke="#314252"/>
+  <rect x="678" y="164" width="360" height="40" rx="10" fill="#1B2935"/><circle cx="698" cy="184" r="5" fill="#00E87A"/><path d="M715 184h144" stroke="#7F93A4" stroke-width="7" stroke-linecap="round"/>
+  <rect x="682" y="232" width="158" height="94" rx="16" fill="#172530" stroke="#00E87A" stroke-opacity=".6"/>
+  <path d="M737 264v-8a16 16 0 0 1 32 0v8m-42 0h52v38h-52z" stroke="url(#green)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="874" y="232" width="158" height="94" rx="16" fill="#172530" stroke="#4C6578"/>
+  <path d="M915 267h76m-76 18h54m-54 18h66" stroke="#9BB0C1" stroke-width="7" stroke-linecap="round"/>
+  <path d="M843 279h24" stroke="#F4B860" stroke-width="6" stroke-linecap="round"/><path d="m858 269 10 10-10 10" stroke="#F4B860" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="682" y="350" width="350" height="116" rx="16" fill="#0C141B" stroke="#253743"/>
+  <circle cx="720" cy="388" r="12" fill="#F4B860"/><path d="m714 388 4 4 8-9" stroke="#101820" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M747 382h242M747 406h198M705 438h286" stroke="#5B7182" stroke-width="7" stroke-linecap="round"/>
+  <text x="76" y="280" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">WORDPRESS / DEBUGGING</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Find the conflict.</text>
+  <text x="76" y="401" fill="#9BADBC" font-family="Arial,sans-serif" font-size="25">Change one thing at a time.</text>
+  <path d="M78 456h110" stroke="#00E87A" stroke-width="5" stroke-linecap="round"/>
+</svg>

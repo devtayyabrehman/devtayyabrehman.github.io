@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12141B"/>
+  <text x="72" y="86" fill="#F3F4F7" font-family="Arial,sans-serif" font-size="31" font-weight="700">Find the layer that hides the order bump</text>
+  <rect x="72" y="230" width="205" height="150" rx="17" fill="#1B2029" stroke="#7CB5F3" stroke-width="3"/>
+  <text x="99" y="279" fill="#97C7FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">PRODUCT</text>
+  <text x="99" y="326" fill="#E2E8EF" font-family="Arial,sans-serif" font-size="17">Published?</text>
+  <text x="99" y="357" fill="#E2E8EF" font-family="Arial,sans-serif" font-size="17">In stock?</text>
+  <path d="M287 305h48m-17-17 17 17-17 17" stroke="#A1A8B5" stroke-width="4"/>
+  <rect x="355" y="230" width="205" height="150" rx="17" fill="#242018" stroke="#E7B95B" stroke-width="3"/>
+  <text x="382" y="279" fill="#F4CE77" font-family="Arial,sans-serif" font-size="19" font-weight="700">RULES</text>
+  <text x="382" y="326" fill="#EEE6D8" font-family="Arial,sans-serif" font-size="17">Cart matches?</text>
+  <text x="382" y="357" fill="#EEE6D8" font-family="Arial,sans-serif" font-size="17">Offer enabled?</text>
+  <path d="M570 305h48m-17-17 17 17-17 17" stroke="#A1A8B5" stroke-width="4"/>
+  <rect x="638" y="230" width="205" height="150" rx="17" fill="#211D29" stroke="#BF8FF0" stroke-width="3"/>
+  <text x="665" y="279" fill="#D3A8FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">CHECKOUT</text>
+  <text x="665" y="326" fill="#EAE3F0" font-family="Arial,sans-serif" font-size="17">Block supported?</text>
+  <text x="665" y="357" fill="#EAE3F0" font-family="Arial,sans-serif" font-size="17">Request succeeds?</text>
+  <path d="M853 305h48m-17-17 17 17-17 17" stroke="#A1A8B5" stroke-width="4"/>
+  <rect x="921" y="230" width="230" height="150" rx="17" fill="#18241E" stroke="#5CD3A0" stroke-width="3"/>
+  <text x="948" y="279" fill="#76E3B2" font-family="Arial,sans-serif" font-size="19" font-weight="700">ORDER TEST</text>
+  <text x="948" y="326" fill="#E3ECE6" font-family="Arial,sans-serif" font-size="17">Line item saved?</text>
+  <text x="948" y="357" fill="#E3ECE6" font-family="Arial,sans-serif" font-size="17">Total correct?</text>
+  <text x="72" y="500" fill="#B9C0CA" font-family="Arial,sans-serif" font-size="18">SKU is only one possible selector; check the extension's documented rules.</text>
+</svg>

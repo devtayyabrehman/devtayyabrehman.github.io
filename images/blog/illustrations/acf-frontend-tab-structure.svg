@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11141C"/>
+  <text x="72" y="86" fill="#F1F3F7" font-family="Arial,sans-serif" font-size="31" font-weight="700">Frontend tabs need linked controls, panels, and behavior</text>
+  <rect x="82" y="190" width="430" height="90" rx="15" fill="#1E1B28" stroke="#B18AF0" stroke-width="3"/>
+  <text x="116" y="245" fill="#D0B0FF" font-family="Arial,sans-serif" font-size="20" font-weight="700">TAB LIST</text>
+  <rect x="275" y="211" width="105" height="48" rx="9" fill="#372A4B"/>
+  <text x="299" y="242" fill="#F3EAFD" font-family="Arial,sans-serif" font-size="17">Overview</text>
+  <rect x="390" y="211" width="95" height="48" rx="9" fill="#15151D" stroke="#635A6E"/>
+  <text x="408" y="242" fill="#C6C0CE" font-family="Arial,sans-serif" font-size="17">Details</text>
+  <path d="M300 302v57" stroke="#A695C4" stroke-width="4"/>
+  <path d="m288 346 12 14 12-14" stroke="#A695C4" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="82" y="377" width="430" height="135" rx="15" fill="#171E29" stroke="#6AAFFF" stroke-width="3"/>
+  <text x="116" y="425" fill="#84BCFF" font-family="Arial,sans-serif" font-size="19" font-weight="700">ACTIVE PANEL</text>
+  <text x="116" y="470" fill="#E1E8F0" font-family="monospace" font-size="17">aria-labelledby = tab-id</text>
+  <text x="116" y="500" fill="#AEB9C8" font-family="monospace" font-size="16">tab aria-controls = panel-id</text>
+  <rect x="620" y="190" width="500" height="322" rx="18" fill="#18231D" stroke="#5FD3A1" stroke-width="3"/>
+  <text x="658" y="244" fill="#75E4B2" font-family="Arial,sans-serif" font-size="21" font-weight="700">KEYBOARD EXPECTATIONS</text>
+  <text x="658" y="307" fill="#E3ECE6" font-family="Arial,sans-serif" font-size="19">← / → Move between tabs</text>
+  <text x="658" y="353" fill="#E3ECE6" font-family="Arial,sans-serif" font-size="19">Home / End First or last tab</text>
+  <text x="658" y="399" fill="#E3ECE6" font-family="Arial,sans-serif" font-size="19">Enter / Space Activate selection</text>
+  <text x="658" y="465" fill="#AFC1B5" font-family="Arial,sans-serif" font-size="17">ACF editor Tab field only organizes wp-admin.</text>
+  <text x="82" y="566" fill="#B9BEC8" font-family="Arial,sans-serif" font-size="18">A visual tab bar without focus and selection behavior is incomplete.</text>
+</svg>

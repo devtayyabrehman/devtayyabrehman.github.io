@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11141C"/>
+  <circle cx="1020" cy="510" r="300" fill="#202536"/>
+  <text x="72" y="115" fill="#78B5F1" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">WORDPRESS · ACF</text>
+  <text x="72" y="202" fill="#F2F4F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Field Keys vs</text>
+  <text x="72" y="258" fill="#F2F4F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Meta Values</text>
+  <text x="75" y="325" fill="#B7C0CD" font-family="Arial,sans-serif" font-size="22">Know what to retrieve, query, and migrate.</text>
+  <rect x="735" y="175" width="395" height="245" rx="19" fill="#171C27" stroke="#6C9DD1" stroke-width="3"/>
+  <text x="771" y="225" fill="#A2CAEF" font-family="Arial,sans-serif" font-size="18" font-weight="700">POST META</text>
+  <rect x="771" y="252" width="320" height="54" rx="9" fill="#222C38"/>
+  <text x="795" y="287" fill="#DCE6EF" font-family="monospace" font-size="18">client_name</text>
+  <rect x="771" y="321" width="320" height="54" rx="9" fill="#222C38"/>
+  <text x="795" y="356" fill="#DCE6EF" font-family="monospace" font-size="18">Northstar Studio</text>
+  <path d="M931 309v9" stroke="#8FB9E4" stroke-width="3"/>
+  <text x="72" y="545" fill="#929DAC" font-family="Arial,sans-serif" font-size="18">Labels are for editors; field names are for code; values are data.</text>
+</svg>

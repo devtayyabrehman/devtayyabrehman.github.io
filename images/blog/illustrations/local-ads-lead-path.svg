@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#17140E"/>
+  <text x="72" y="84" fill="#FBF4E7" font-family="Arial,sans-serif" font-size="30" font-weight="700">Local Lead Quality Is a Full-Funnel Question</text>
+  <text x="72" y="120" fill="#BEB296" font-family="Arial,sans-serif" font-size="18">Clicks become useful only when the business can serve and follow up.</text>
+  <path d="M134 238h932l-78 86H212l-78-86Z" fill="#242016" stroke="#F5A623"/>
+  <text x="600" y="274" text-anchor="middle" fill="#F5C76F" font-family="Arial,sans-serif" font-size="17" font-weight="700">1 · SERVICE AREA + SEARCH INTENT</text>
+  <text x="600" y="303" text-anchor="middle" fill="#E8DECA" font-family="Arial,sans-serif" font-size="16">Can you serve this person? Are they looking for this service?</text>
+  <path d="M212 335h776l-70 80H282l-70-80Z" fill="#1D2023" stroke="#4D8EFF"/>
+  <text x="600" y="370" text-anchor="middle" fill="#81ACFF" font-family="Arial,sans-serif" font-size="17" font-weight="700">2 · AD PROMISE + LANDING PAGE</text>
+  <text x="600" y="398" text-anchor="middle" fill="#DFE5EE" font-family="Arial,sans-serif" font-size="16">Same offer · coverage · clear phone or form next step</text>
+  <path d="M282 426h636l-61 74H343l-61-74Z" fill="#17201B" stroke="#00E87A"/>
+  <text x="600" y="459" text-anchor="middle" fill="#00E87A" font-family="Arial,sans-serif" font-size="17" font-weight="700">3 · VALID LEAD + HUMAN FOLLOW-UP</text>
+  <text x="600" y="485" text-anchor="middle" fill="#DDE9DF" font-family="Arial,sans-serif" font-size="15">Contact · qualify · book · record outcome</text>
+  <rect x="72" y="531" width="1056" height="46" rx="12" fill="#11100C"/>
+  <text x="99" y="561" fill="#DDD3BC" font-family="Arial,sans-serif" font-size="16">Track completed business outcomes—not only calls, clicks, or form-button events.</text>
+</svg>

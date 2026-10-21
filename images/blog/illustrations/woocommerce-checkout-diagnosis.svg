@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#251F19"/>
+  <text x="72" y="92" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="34" font-weight="700">Diagnose checkout before redesigning</text>
+  <rect x="72" y="218" width="240" height="156" fill="#33291F" stroke="#F0B357" stroke-width="2"/>
+  <text x="104" y="266" fill="#FFC368" font-family="Arial,sans-serif" font-size="20" font-weight="700">OBSERVE</text>
+  <text x="104" y="307" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">Where does the</text>
+  <text x="104" y="337" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">journey stop?</text>
+  <path d="M325 295h58m-18-18 18 18-18 18" stroke="#F0B357" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="398" y="218" width="240" height="156" fill="#33291F" stroke="#F0B357" stroke-width="2"/>
+  <text x="430" y="266" fill="#FFC368" font-family="Arial,sans-serif" font-size="20" font-weight="700">INVESTIGATE</text>
+  <text x="430" y="307" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">Costs, validation,</text>
+  <text x="430" y="337" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">payment, device</text>
+  <path d="M651 295h58m-18-18 18 18-18 18" stroke="#F0B357" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="724" y="218" width="240" height="156" fill="#33291F" stroke="#F0B357" stroke-width="2"/>
+  <text x="756" y="266" fill="#FFC368" font-family="Arial,sans-serif" font-size="20" font-weight="700">CHANGE ONE</text>
+  <text x="756" y="307" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">Test a focused</text>
+  <text x="756" y="337" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="19">improvement</text>
+  <path d="M977 295h58m-18-18 18 18-18 18" stroke="#F0B357" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1050" y="218" width="78" height="156" fill="#33291F" stroke="#F0B357" stroke-width="2"/>
+  <text x="1061" y="266" fill="#FFC368" font-family="Arial,sans-serif" font-size="17" font-weight="700">VERIFY</text>
+  <text x="1061" y="307" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="17">Full order</text>
+  <text x="1061" y="337" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="17">lifecycle</text>
+  <path d="M72 436h1056" stroke="#63513E" stroke-width="2"/>
+  <text x="72" y="493" fill="#D7CDC0" font-family="Arial,sans-serif" font-size="20">Use event counts as clues; confirm what customers experience before drawing conclusions.</text>
+</svg>

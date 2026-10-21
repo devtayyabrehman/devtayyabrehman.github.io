@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12131C"/>
+  <text x="72" y="88" fill="#F3F0F8" font-family="Arial,sans-serif" font-size="32" font-weight="700">ACF labels, names, keys, and values are different</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="72" y="195" width="220" height="210" rx="16" fill="#1D1925" stroke="#C18CF1" stroke-width="3"/>
+    <text x="98" y="244" fill="#D1A8FA" font-size="17" font-weight="700">EDITOR LABEL</text>
+    <text x="98" y="312" fill="#F0EAF5" font-size="22">Client name</text>
+    <text x="98" y="356" fill="#AAA1B2" font-size="16">Human wording</text>
+    <rect x="336" y="195" width="220" height="210" rx="16" fill="#18202B" stroke="#70B1F9" stroke-width="3"/>
+    <text x="362" y="244" fill="#8EC3FF" font-size="17" font-weight="700">FIELD NAME</text>
+    <text x="362" y="312" fill="#E5ECF4" font-family="monospace" font-size="21">client_name</text>
+    <text x="362" y="356" fill="#A8B5C4" font-size="16">Code + meta key</text>
+    <rect x="600" y="195" width="220" height="210" rx="16" fill="#251F17" stroke="#E8B44E" stroke-width="3"/>
+    <text x="626" y="244" fill="#F6CB75" font-size="17" font-weight="700">FIELD KEY</text>
+    <text x="626" y="312" fill="#F0E9DC" font-family="monospace" font-size="18">field_64f123</text>
+    <text x="626" y="356" fill="#B8AD99" font-size="16">Field definition ID</text>
+    <rect x="864" y="195" width="260" height="210" rx="16" fill="#17251E" stroke="#62D8A4" stroke-width="3"/>
+    <text x="890" y="244" fill="#75E6B2" font-size="17" font-weight="700">SAVED VALUE</text>
+    <text x="890" y="312" fill="#E2EFE7" font-size="21">Northstar Studio</text>
+    <text x="890" y="356" fill="#AABFB2" font-size="16">Post meta content</text>
+  </g>
+  <path d="M300 300h28m236 0h28m236 0h28" stroke="#A9A0B8" stroke-width="3" stroke-dasharray="5 6"/>
+  <text x="72" y="520" fill="#B7B8C3" font-family="Arial,sans-serif" font-size="19">Use the field name to retrieve; validate the returned value's type.</text>
+</svg>

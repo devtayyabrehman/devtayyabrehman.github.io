@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11151A"/>
+  <text x="72" y="115" fill="#68D6A1" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">WORDPRESS THEMES</text>
+  <text x="72" y="202" fill="#F2F5F6" font-family="Arial,sans-serif" font-size="42" font-weight="700">Choose the Right</text>
+  <text x="72" y="258" fill="#F2F5F6" font-family="Arial,sans-serif" font-size="42" font-weight="700">Template</text>
+  <text x="75" y="325" fill="#B4C0C3" font-family="Arial,sans-serif" font-size="22">Single, archive, Page template, or block theme?</text>
+  <rect x="755" y="165" width="335" height="70" rx="12" fill="#1C2429" stroke="#74B3E9" stroke-width="3"/>
+  <text x="788" y="210" fill="#BBDFFF" font-family="monospace" font-size="18">/projects/river-bridge/</text>
+  <path d="M922 235v45m0 0H805v26m117-26h117v26" stroke="#9DAFBA" stroke-width="3"/>
+  <rect x="714" y="310" width="190" height="95" rx="14" fill="#19252A" stroke="#75B4EA" stroke-width="3"/>
+  <text x="744" y="350" fill="#BCE0FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">SINGLE</text>
+  <text x="744" y="381" fill="#E1E9EF" font-family="monospace" font-size="15">single-project</text>
+  <rect x="945" y="310" width="190" height="95" rx="14" fill="#1C2820" stroke="#64D29A" stroke-width="3"/>
+  <text x="975" y="350" fill="#A7EBC5" font-family="Arial,sans-serif" font-size="16" font-weight="700">ARCHIVE</text>
+  <text x="975" y="381" fill="#E0ECE4" font-family="monospace" font-size="15">archive-project</text>
+  <text x="72" y="545" fill="#8E9B9D" font-family="Arial,sans-serif" font-size="18">Identify the query before naming the theme file</text>
+</svg>

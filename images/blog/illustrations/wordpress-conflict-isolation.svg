@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#10251F"/>
+  <text x="72" y="92" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="34" font-weight="700">Isolate a WordPress conflict safely</text>
+  <rect x="72" y="222" width="254" height="150" fill="#172530" stroke="#00D987" stroke-width="2"/>
+  <text x="104" y="270" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700">REPRODUCE</text>
+  <text x="104" y="313" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">Record one exact</text>
+  <text x="104" y="343" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">failing journey</text>
+  <path d="M339 297h49m-16-16 16 16-16 16" stroke="#77E6AF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="404" y="222" width="254" height="150" fill="#172530" stroke="#00D987" stroke-width="2"/>
+  <text x="436" y="270" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700">CHANGE ONE</text>
+  <text x="436" y="313" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">Theme or extension</text>
+  <text x="436" y="343" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">on staging</text>
+  <path d="M671 297h49m-16-16 16 16-16 16" stroke="#77E6AF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="736" y="222" width="254" height="150" fill="#172530" stroke="#00D987" stroke-width="2"/>
+  <text x="768" y="270" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700">RETEST</text>
+  <text x="768" y="313" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">Same user, same</text>
+  <text x="768" y="343" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="20">steps, same state</text>
+  <path d="M1003 297h36" stroke="#77E6AF" stroke-width="4"/>
+  <path d="m1025 281 16 16-16 16" stroke="#77E6AF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1054" y="222" width="74" height="150" fill="#172530" stroke="#00D987" stroke-width="2"/>
+  <text x="1065" y="275" fill="#00E87A" font-family="Arial,sans-serif" font-size="17" font-weight="700">LOG</text>
+  <text x="1065" y="316" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="17">Cause</text>
+  <text x="1065" y="344" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="17">+ fix</text>
+  <path d="M72 435h1056" stroke="#43584C" stroke-width="2"/>
+  <text x="72" y="492" fill="#CFDDD3" font-family="Arial,sans-serif" font-size="20">Back up first; never disable critical store or security features on production to test a guess.</text>
+</svg>

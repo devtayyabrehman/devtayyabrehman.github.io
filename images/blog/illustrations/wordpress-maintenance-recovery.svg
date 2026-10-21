@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12282D"/>
+  <text x="72" y="92" fill="#EEF6F6" font-family="Arial,sans-serif" font-size="34" font-weight="700">Maintenance is a recovery loop</text>
+  <rect x="164" y="196" width="250" height="120" fill="#19343A" stroke="#53D9B7" stroke-width="2"/>
+  <text x="197" y="244" fill="#69E3C4" font-family="Arial,sans-serif" font-size="20" font-weight="700">BACK UP</text>
+  <text x="197" y="283" fill="#EEF6F6" font-family="Arial,sans-serif" font-size="20">Files + database</text>
+  <path d="M426 256h71m-18-18 18 18-18 18" stroke="#64DDC0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="510" y="196" width="250" height="120" fill="#19343A" stroke="#53D9B7" stroke-width="2"/>
+  <text x="543" y="244" fill="#69E3C4" font-family="Arial,sans-serif" font-size="20" font-weight="700">TEST RESTORE</text>
+  <text x="543" y="283" fill="#EEF6F6" font-family="Arial,sans-serif" font-size="20">Safe environment</text>
+  <path d="M772 256h71m-18-18 18 18-18 18" stroke="#64DDC0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="856" y="196" width="250" height="120" fill="#19343A" stroke="#53D9B7" stroke-width="2"/>
+  <text x="889" y="244" fill="#69E3C4" font-family="Arial,sans-serif" font-size="20" font-weight="700">UPDATE + VERIFY</text>
+  <text x="889" y="283" fill="#EEF6F6" font-family="Arial,sans-serif" font-size="20">Critical journeys</text>
+  <path d="M981 332v80H290v-82" stroke="#6C8990" stroke-width="3"/>
+  <path d="m279 344 11-12 11 12" stroke="#6C8990" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="476" fill="#CFDEDF" font-family="Arial,sans-serif" font-size="20">Monitor errors and keep the tested restore procedure current.</text>
+  <text x="164" y="521" fill="#69E3C4" font-family="Arial,sans-serif" font-size="20" font-weight="700">A backup is not proven until a restore has been checked.</text>
+</svg>

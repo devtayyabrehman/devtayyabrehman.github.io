@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#32231A"/><stop offset="1" stop-color="#32231A"/></linearGradient><linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFC368"/><stop offset="1" stop-color="#F38B43"/></linearGradient><pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" stroke="#D2AF8C" stroke-opacity=".065"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#p)" d="M0 0h1200v630H0z"/><circle cx="899" cy="315" r="223" fill="#F59E55" fill-opacity=".08"/>
+  <rect x="670" y="132" width="360" height="364" rx="24" fill="#16191C" stroke="#584536" stroke-width="2"/>
+  <text x="707" y="181" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="24" font-weight="700">CHECKOUT</text>
+  <rect x="706" y="207" width="288" height="45" rx="9" fill="#23272A"/><path d="M726 230h138" stroke="#718087" stroke-width="6" stroke-linecap="round"/>
+  <rect x="706" y="268" width="288" height="45" rx="9" fill="#23272A"/><path d="M726 291h190" stroke="#718087" stroke-width="6" stroke-linecap="round"/>
+  <rect x="706" y="329" width="288" height="45" rx="9" fill="#23272A"/><path d="M726 352h112" stroke="#718087" stroke-width="6" stroke-linecap="round"/>
+  <path d="M707 399h286" stroke="#4A5154" stroke-width="2"/><text x="708" y="435" fill="#ABB6B6" font-family="Arial,sans-serif" font-size="16">TOTAL</text><text x="922" y="438" fill="#F5F1EA" font-family="Arial,sans-serif" font-size="22" font-weight="700">$ --.--</text>
+  <rect x="706" y="454" width="288" height="28" rx="9" fill="url(#o)"/><path d="M800 468h100" stroke="#301B0F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1055 216v48m0 32v70" stroke="#FFC368" stroke-width="8" stroke-linecap="round"/><circle cx="1055" cy="387" r="7" fill="#FFC368"/>
+  <text x="76" y="280" fill="#FFC368" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">WOOCOMMERCE / CHECKOUT</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Reduce checkout friction.</text>
+  <text x="76" y="401" fill="#B9B1A9" font-family="Arial,sans-serif" font-size="25">Make costs and next steps clear.</text><path d="M78 456h110" stroke="#FFC368" stroke-width="5" stroke-linecap="round"/>
+</svg>

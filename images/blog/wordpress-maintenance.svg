@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#173027"/><stop offset="1" stop-color="#173027"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E87A"/><stop offset="1" stop-color="#00BFA5"/></linearGradient><pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0v42" stroke="#9AC5B1" stroke-opacity=".065"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#p)" d="M0 0h1200v630H0z"/><circle cx="905" cy="310" r="230" fill="#00E87A" fill-opacity=".06"/>
+  <rect x="680" y="130" width="340" height="370" rx="24" fill="#101C1B" stroke="#35534A" stroke-width="2"/>
+  <rect x="680" y="130" width="340" height="76" rx="24" fill="#172923"/><path d="M680 182h340v24H680z" fill="#172923"/>
+  <text x="718" y="177" fill="#EAF4EF" font-family="Arial,sans-serif" font-size="24" font-weight="700">MAINTENANCE</text>
+  <g stroke="#38534A" stroke-width="2"><path d="M710 246h280M710 304h280M710 362h280M710 420h280M770 226v218M830 226v218M890 226v218M950 226v218"/></g>
+  <rect x="782" y="258" width="35" height="31" rx="8" fill="url(#g)"/><path d="m791 273 7 7 12-14" stroke="#062218" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="842" y="316" width="35" height="31" rx="8" fill="#F0B85A"/><path d="m851 331 7 7 12-14" stroke="#292013" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="902" y="374" width="35" height="31" rx="8" fill="url(#g)"/><path d="m911 389 7 7 12-14" stroke="#062218" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1037 226v63a22 22 0 0 1-22 22" stroke="#00E87A" stroke-width="6" stroke-linecap="round"/><path d="m1005 310 10 10 10-10" stroke="#00E87A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="280" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">WORDPRESS / CARE</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Maintain. Then recover.</text>
+  <text x="76" y="401" fill="#A8BBB2" font-family="Arial,sans-serif" font-size="25">Updates, backups, tested restores.</text><path d="M78 456h110" stroke="#00E87A" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#17130D"/>
+  <text x="72" y="84" fill="#FBF4E8" font-family="Arial,sans-serif" font-size="30" font-weight="700">A Reliable WordPress Scheduled Task</text>
+  <text x="72" y="120" fill="#BEB197" font-family="Arial,sans-serif" font-size="18">WP-Cron schedules work; the callback still needs safe execution.</text>
+  <rect x="74" y="190" width="246" height="164" rx="18" fill="#211A10" stroke="#F5A623"/>
+  <text x="101" y="231" fill="#F5A623" font-family="Arial,sans-serif" font-size="15" font-weight="700">TRIGGER</text>
+  <text x="101" y="276" fill="#F1E9DA" font-family="Arial,sans-serif" font-size="19" font-weight="700">Request or scheduler</text>
+  <text x="101" y="312" fill="#C3B69D" font-family="Arial,sans-serif" font-size="16">Traffic-based or timed</text>
+  <path d="M335 272h71m-16-15 16 15-16 15" stroke="#CDB37E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="423" y="190" width="246" height="164" rx="18" fill="#1D1A13" stroke="#D9A94F"/>
+  <text x="450" y="231" fill="#F5C56C" font-family="Arial,sans-serif" font-size="15" font-weight="700">DUE EVENT</text>
+  <text x="450" y="276" fill="#F1E9DA" font-family="Arial,sans-serif" font-size="19" font-weight="700">Check once</text>
+  <text x="450" y="312" fill="#C3B69D" font-family="Arial,sans-serif" font-size="16">Avoid duplicate schedule</text>
+  <path d="M684 272h71m-16-15 16 15-16 15" stroke="#CDB37E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="772" y="190" width="246" height="164" rx="18" fill="#152019" stroke="#00E87A"/>
+  <text x="799" y="231" fill="#00E87A" font-family="Arial,sans-serif" font-size="15" font-weight="700">CALLBACK</text>
+  <text x="799" y="276" fill="#E6F0E8" font-family="Arial,sans-serif" font-size="19" font-weight="700">Run idempotently</text>
+  <text x="799" y="312" fill="#B4C5B8" font-family="Arial,sans-serif" font-size="16">Timeouts · bounded retry</text>
+  <path d="M1033 272h47" stroke="#CDB37E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="1090" y="190" width="46" height="164" rx="15" fill="#151A23" stroke="#4D8EFF"/>
+  <path d="M1105 250h16m-16 25h16m-16 25h16" stroke="#8AAFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M895 368v61H545v-55m350 55h-94" stroke="#6B725F" stroke-width="3" stroke-dasharray="6 7"/>
+  <rect x="74" y="443" width="1019" height="90" rx="15" fill="#12100B" stroke="#4E412B"/>
+  <text x="103" y="481" fill="#E9DFC9" font-family="Arial,sans-serif" font-size="18" font-weight="700">Record the result · Alert on repeated failures · Clean up on deactivation</text>
+  <text x="103" y="511" fill="#B7AA8F" font-family="Arial,sans-serif" font-size="16">A real scheduler improves timing; it does not replace retries, logs, or duplicate protection.</text>
+</svg>

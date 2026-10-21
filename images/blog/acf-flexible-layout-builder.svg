@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#13131B"/>
+  <text x="72" y="115" fill="#BE91F1" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">WORDPRESS · ACF</text>
+  <text x="72" y="202" fill="#F4F1F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Flexible Content</text>
+  <text x="72" y="258" fill="#F4F1F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Template Parts</text>
+  <text x="75" y="325" fill="#B9B3C4" font-family="Arial,sans-serif" font-size="22">Give editors options; keep rendering controlled.</text>
+  <rect x="760" y="160" width="336" height="74" rx="14" fill="#211D2C" stroke="#B58BEB" stroke-width="3"/>
+  <text x="794" y="207" fill="#E1C9FF" font-family="monospace" font-size="20">hero → hero.php</text>
+  <rect x="760" y="257" width="336" height="74" rx="14" fill="#1A2420" stroke="#65D39E" stroke-width="3"/>
+  <text x="794" y="304" fill="#B7F1D1" font-family="monospace" font-size="18">features → grid.php</text>
+  <rect x="760" y="354" width="336" height="74" rx="14" fill="#1B222C" stroke="#6DAFF0" stroke-width="3"/>
+  <text x="794" y="401" fill="#C6E1FF" font-family="monospace" font-size="18">cta → call-to-action.php</text>
+  <text x="72" y="545" fill="#9895A3" font-family="Arial,sans-serif" font-size="18">Reusable sections, explicit mapping, safe output</text>
+</svg>

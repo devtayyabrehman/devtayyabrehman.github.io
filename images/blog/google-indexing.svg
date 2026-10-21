@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#173126"/><stop offset="1" stop-color="#173126"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E87A"/><stop offset="1" stop-color="#00BFA5"/></linearGradient><pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" stroke="#9EB6A8" stroke-opacity=".065"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#p)" d="M0 0h1200v630H0z"/><circle cx="908" cy="314" r="224" fill="#00E87A" fill-opacity=".07"/>
+  <rect x="688" y="137" width="300" height="359" rx="20" fill="#111A17" stroke="#3B5147" stroke-width="2"/>
+  <path d="M737 188h133m-133 27h204" stroke="#778D81" stroke-width="8" stroke-linecap="round"/>
+  <rect x="728" y="246" width="222" height="95" rx="12" fill="#1B2922"/><path d="M750 271h160m-160 19h130m-130 19h146" stroke="#788B80" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="850" cy="393" r="48" fill="#12221A" stroke="url(#g)" stroke-width="7"/><path d="m885 429 53 53" stroke="#00E87A" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="850" cy="393" r="19" stroke="#B1F5D0" stroke-width="5"/><path d="m841 393 7 7 14-16" stroke="#00E87A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1008" y="220" width="83" height="42" rx="12" fill="#162820" stroke="#00E87A"/><text x="1028" y="248" fill="#9DF0C7" font-family="Arial,sans-serif" font-size="16" font-weight="700">INDEX</text>
+  <text x="76" y="280" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">TECHNICAL SEO / INDEXING</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Trace why a page is missing.</text>
+  <text x="76" y="401" fill="#AABBB1" font-family="Arial,sans-serif" font-size="25">Inspect signals before changing SEO.</text><path d="M78 456h110" stroke="#00E87A" stroke-width="5" stroke-linecap="round"/>
+</svg>

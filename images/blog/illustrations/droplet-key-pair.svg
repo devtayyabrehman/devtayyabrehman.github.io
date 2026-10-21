@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#10141C"/>
+  <text x="72" y="88" fill="#F3F5F8" font-family="Arial,sans-serif" font-size="32" font-weight="700">SSH keys: share one half, protect the other</text>
+  <rect x="90" y="190" width="390" height="285" rx="20" fill="#18202D" stroke="#63A8FF" stroke-width="3"/>
+  <text x="125" y="244" fill="#78B9FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">YOUR COMPUTER</text>
+  <rect x="130" y="280" width="300" height="66" rx="10" fill="#10141C" stroke="#446083"/>
+  <text x="154" y="322" fill="#E7EDF5" font-family="monospace" font-size="20">id_ed25519</text>
+  <text x="130" y="388" fill="#C5CFDD" font-family="Arial,sans-serif" font-size="20">PRIVATE · keep local</text>
+  <text x="130" y="424" fill="#96A6BC" font-family="Arial,sans-serif" font-size="17">Protect with a passphrase</text>
+  <path d="M510 330h170m-20-20 20 20-20 20" stroke="#70D6B2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="720" y="190" width="390" height="285" rx="20" fill="#17241F" stroke="#54D6A5" stroke-width="3"/>
+  <text x="755" y="244" fill="#63E3B4" font-family="Arial,sans-serif" font-size="23" font-weight="700">CLOUD ACCOUNT</text>
+  <rect x="760" y="280" width="300" height="66" rx="10" fill="#10141C" stroke="#3A6B57"/>
+  <text x="784" y="322" fill="#E7EDF5" font-family="monospace" font-size="20">id_ed25519.pub</text>
+  <text x="760" y="388" fill="#C5CFDD" font-family="Arial,sans-serif" font-size="20">PUBLIC · upload this</text>
+  <text x="760" y="424" fill="#96A6BC" font-family="Arial,sans-serif" font-size="17">Install for the server user</text>
+  <text x="90" y="545" fill="#ABB6C5" font-family="Arial,sans-serif" font-size="19">The private key authenticates you; the server stores the matching public key.</text>
+</svg>

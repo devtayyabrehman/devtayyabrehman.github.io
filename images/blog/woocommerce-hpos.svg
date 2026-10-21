@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#142A30"/><stop offset="1" stop-color="#142A30"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E87A"/><stop offset="1" stop-color="#00BFA5"/></linearGradient><pattern id="p" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0v38" stroke="#A0BCC1" stroke-opacity=".065"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#p)" d="M0 0h1200v630H0z"/><circle cx="892" cy="316" r="224" fill="#00D8AE" fill-opacity=".07"/>
+  <rect x="672" y="132" width="368" height="365" rx="24" fill="#101B20" stroke="#38525B" stroke-width="2"/>
+  <rect x="706" y="168" width="300" height="52" rx="12" fill="#1A2A30"/><circle cx="732" cy="194" r="8" fill="#00E87A"/><text x="753" y="202" fill="#DCE8EA" font-family="Arial,sans-serif" font-size="18" font-weight="700">ORDER STORAGE</text>
+  <g stroke="#3B555D" stroke-width="2"><path d="M706 247h300M706 302h300M706 357h300M706 412h300M706 467h300"/><path d="M774 247v220M852 247v220M930 247v220"/></g>
+  <g fill="#00E87A"><rect x="720" y="263" width="32" height="23" rx="5"/><rect x="788" y="318" width="48" height="23" rx="5"/><rect x="866" y="373" width="48" height="23" rx="5"/><rect x="944" y="428" width="32" height="23" rx="5"/></g>
+  <path d="M1049 245h67m-20-20 20 20-20 20M1116 407h-67m20-20-20 20 20 20" stroke="#00E87A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="280" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">WOOCOMMERCE / HPOS</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Prepare order storage.</text>
+  <text x="76" y="401" fill="#A9BBC0" font-family="Arial,sans-serif" font-size="25">Compatibility before migration.</text><path d="M78 456h110" stroke="#00E87A" stroke-width="5" stroke-linecap="round"/>
+</svg>

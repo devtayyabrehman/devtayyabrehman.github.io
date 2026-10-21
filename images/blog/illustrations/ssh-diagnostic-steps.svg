@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11131B"/>
+  <text x="72" y="90" fill="#F4F3FA" font-family="Arial,sans-serif" font-size="32" font-weight="700">Debug SSH in the order it connects</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="72" y="190" width="235" height="245" rx="18" fill="#191A26" stroke="#9B8AF4" stroke-width="3"/>
+    <text x="99" y="236" fill="#B4A8FF" font-size="17" font-weight="700">1 · NAME</text>
+    <text x="99" y="292" fill="#E5E2F2" font-size="21">DNS and IP</text>
+    <text x="99" y="340" fill="#A9A5B7" font-size="17">Right host?</text>
+    <text x="99" y="372" fill="#A9A5B7" font-size="17">Right address?</text>
+    <rect x="337" y="190" width="235" height="245" rx="18" fill="#1A202B" stroke="#67AFFF" stroke-width="3"/>
+    <text x="364" y="236" fill="#80BCFF" font-size="17" font-weight="700">2 · NETWORK</text>
+    <text x="364" y="292" fill="#E5EAF2" font-size="21">TCP port</text>
+    <text x="364" y="340" fill="#A9B5C5" font-size="17">Route?</text>
+    <text x="364" y="372" fill="#A9B5C5" font-size="17">Firewall?</text>
+    <rect x="602" y="190" width="235" height="245" rx="18" fill="#221F18" stroke="#F0BB5E" stroke-width="3"/>
+    <text x="629" y="236" fill="#FFD17A" font-size="17" font-weight="700">3 · IDENTITY</text>
+    <text x="629" y="292" fill="#F0E9D9" font-size="21">Host key</text>
+    <text x="629" y="340" fill="#BEB6A4" font-size="17">Trusted server?</text>
+    <text x="629" y="372" fill="#BEB6A4" font-size="17">Changed host?</text>
+    <rect x="867" y="190" width="250" height="245" rx="18" fill="#17241E" stroke="#58D6A0" stroke-width="3"/>
+    <text x="894" y="236" fill="#6BE4AF" font-size="17" font-weight="700">4 · AUTH</text>
+    <text x="894" y="292" fill="#E2F0E8" font-size="21">User and key</text>
+    <text x="894" y="340" fill="#AFC2B5" font-size="17">Correct account?</text>
+    <text x="894" y="372" fill="#AFC2B5" font-size="17">Matching public key?</text>
+  </g>
+  <path d="M312 310h16m249 0h16m249 0h16" stroke="#C8C2D9" stroke-width="4"/>
+  <text x="72" y="525" fill="#BEC0CA" font-family="Arial,sans-serif" font-size="19">The last successful stage narrows the next check.</text>
+</svg>

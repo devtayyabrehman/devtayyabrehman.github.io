@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#111A17"/>
+  <text x="76" y="96" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="34" font-weight="700">Diagnose Before You Resubmit</text>
+  <text x="76" y="137" fill="#A7B8AE" font-family="Arial,sans-serif" font-size="20">Follow evidence from fetch to canonical selection.</text>
+  <rect x="76" y="198" width="300" height="112" rx="18" fill="#17231E" stroke="#00E87A" stroke-width="2"/>
+  <text x="106" y="242" fill="#00E87A" font-family="Arial,sans-serif" font-size="18" font-weight="700">1 · FETCH</text>
+  <text x="106" y="280" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="24">Status and access</text>
+  <path d="M394 254h111m-18-16 18 16-18 16" stroke="#8FE9BC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="514" y="198" width="300" height="112" rx="18" fill="#17231E" stroke="#4D8EFF" stroke-width="2"/>
+  <text x="544" y="242" fill="#78A6FF" font-family="Arial,sans-serif" font-size="18" font-weight="700">2 · INSPECT</text>
+  <text x="544" y="280" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="24">Render and robots</text>
+  <path d="M832 254h111m-18-16 18 16-18 16" stroke="#8FE9BC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="952" y="198" width="172" height="112" rx="18" fill="#17231E" stroke="#F5A623" stroke-width="2"/>
+  <text x="978" y="242" fill="#F5A623" font-family="Arial,sans-serif" font-size="18" font-weight="700">3 · COMPARE</text>
+  <text x="978" y="280" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="22">Canonical</text>
+  <path d="M600 310v69m0 0H225v35m375-35h375v35" stroke="#58675D" stroke-width="3" stroke-linecap="round"/>
+  <rect x="76" y="416" width="430" height="105" rx="17" fill="#14201A" stroke="#00E87A" stroke-opacity=".6"/>
+  <text x="108" y="459" fill="#DCE9DF" font-family="Arial,sans-serif" font-size="21" font-weight="700">Useful and distinct?</text>
+  <text x="108" y="491" fill="#9EAEA3" font-family="Arial,sans-serif" font-size="18">Improve the page and internal links.</text>
+  <rect x="694" y="416" width="430" height="105" rx="17" fill="#201B13" stroke="#F5A623" stroke-opacity=".7"/>
+  <text x="726" y="459" fill="#F6EBD7" font-family="Arial,sans-serif" font-size="21" font-weight="700">Duplicate or not intended?</text>
+  <text x="726" y="491" fill="#BAA989" font-family="Arial,sans-serif" font-size="18">Consolidate or keep it excluded.</text>
+  <text x="76" y="578" fill="#9EAEA3" font-family="Arial,sans-serif" font-size="18">A recrawl request is a step—not a promise of indexing.</text>
+</svg>

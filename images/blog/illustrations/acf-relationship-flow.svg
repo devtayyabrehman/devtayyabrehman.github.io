@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#11151D"/>
+  <text x="72" y="84" fill="#F1F4F8" font-family="Arial,sans-serif" font-size="31" font-weight="700">A relationship is a reference between records</text>
+  <rect x="80" y="185" width="360" height="270" rx="18" fill="#1B202B" stroke="#68AFFF" stroke-width="3"/>
+  <text x="112" y="235" fill="#82BEFF" font-family="Arial,sans-serif" font-size="21" font-weight="700">CASE STUDY · post 81</text>
+  <text x="112" y="292" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="20">related_services</text>
+  <rect x="112" y="325" width="130" height="52" rx="9" fill="#10151C"/>
+  <text x="144" y="359" fill="#D8E2EF" font-family="monospace" font-size="20">[14, 27]</text>
+  <text x="112" y="416" fill="#9DA9B7" font-family="Arial,sans-serif" font-size="17">Stored IDs or formatted objects</text>
+  <path d="M468 320h112m-18-17 18 17-18 17" stroke="#9A8CFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="615" y="175" width="235" height="120" rx="17" fill="#17251F" stroke="#58D9A4" stroke-width="3"/>
+  <text x="647" y="222" fill="#75E7B7" font-family="Arial,sans-serif" font-size="19" font-weight="700">SERVICE · 14</text>
+  <text x="647" y="260" fill="#E2EAE5" font-family="Arial,sans-serif" font-size="17">Design audit</text>
+  <rect x="615" y="335" width="235" height="120" rx="17" fill="#17251F" stroke="#58D9A4" stroke-width="3"/>
+  <text x="647" y="382" fill="#75E7B7" font-family="Arial,sans-serif" font-size="19" font-weight="700">SERVICE · 27</text>
+  <text x="647" y="420" fill="#E2EAE5" font-family="Arial,sans-serif" font-size="17">Store build</text>
+  <path d="M442 346C516 346 528 235 596 235m-154 111c74 0 86 81 154 81" stroke="#8BA4C6" stroke-width="3" stroke-dasharray="8 8"/>
+  <rect x="900" y="235" width="220" height="180" rx="18" fill="#231E2A" stroke="#BB92F6" stroke-width="3"/>
+  <text x="928" y="282" fill="#CCA8FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">TEMPLATE</text>
+  <text x="928" y="328" fill="#E9E2F1" font-family="Arial,sans-serif" font-size="17">Resolve reference</text>
+  <text x="928" y="362" fill="#E9E2F1" font-family="Arial,sans-serif" font-size="17">Check published</text>
+  <text x="928" y="396" fill="#E9E2F1" font-family="Arial,sans-serif" font-size="17">Render escaped links</text>
+  <text x="80" y="535" fill="#B7C0CD" font-family="Arial,sans-serif" font-size="19">The relation points one way unless you explicitly maintain the reverse.</text>
+</svg>

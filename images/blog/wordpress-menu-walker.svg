@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12131B"/>
+  <text x="72" y="115" fill="#7EB9F0" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">WORDPRESS THEMES</text>
+  <text x="72" y="202" fill="#F3F5F8" font-family="Arial,sans-serif" font-size="42" font-weight="700">Custom Navigation</text>
+  <text x="72" y="258" fill="#F3F5F8" font-family="Arial,sans-serif" font-size="42" font-weight="700">Walker Class</text>
+  <text x="75" y="325" fill="#B6C0CD" font-family="Arial,sans-serif" font-size="22">Customize markup and keep output safe.</text>
+  <rect x="772" y="160" width="325" height="285" rx="18" fill="#191E29" stroke="#66A8E8" stroke-width="3"/>
+  <text x="808" y="212" fill="#90C4F5" font-family="monospace" font-size="19">class SiteWalker</text>
+  <path d="M810 243h244" stroke="#3B4B5F" stroke-width="2"/>
+  <text x="808" y="292" fill="#B8A7F5" font-family="monospace" font-size="19">start_el()</text>
+  <text x="808" y="336" fill="#B8A7F5" font-family="monospace" font-size="19">start_lvl()</text>
+  <text x="808" y="394" fill="#75DDAE" font-family="monospace" font-size="18">&lt;nav&gt; &lt;ul&gt; &lt;li&gt;</text>
+  <text x="72" y="545" fill="#919CAA" font-family="Arial,sans-serif" font-size="18">Use a walker for structure; filters for simpler changes</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#172B37"/><stop offset="1" stop-color="#172B37"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E87A"/><stop offset="1" stop-color="#00BFA5"/></linearGradient><pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" stroke="#A9BFCA" stroke-opacity=".065"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#p)" d="M0 0h1200v630H0z"/><circle cx="900" cy="315" r="225" fill="#00E87A" fill-opacity=".07"/>
+  <rect x="660" y="140" width="420" height="340" rx="24" fill="#10171D" stroke="#394A56" stroke-width="2"/>
+  <rect x="689" y="168" width="362" height="42" rx="10" fill="#1C2932"/><circle cx="710" cy="189" r="5" fill="#FF7E72"/><circle cx="729" cy="189" r="5" fill="#FFC368"/><circle cx="748" cy="189" r="5" fill="#00E87A"/>
+  <rect x="690" y="229" width="180" height="211" rx="14" fill="#1C2A31"/><path d="M780 265c-33 0-58 23-58 53 0 11 4 22 11 30l-9 46h112l-9-46c7-8 11-19 11-30 0-30-25-53-58-53Z" fill="url(#g)" fill-opacity=".82"/><path d="M750 310h60m-48 24h36" stroke="#073821" stroke-width="7" stroke-linecap="round"/>
+  <path d="M899 260h123M899 290h95M899 320h112M899 350h72" stroke="#718594" stroke-width="8" stroke-linecap="round"/>
+  <path d="M692 462h80" stroke="#00E87A" stroke-width="7" stroke-linecap="round"/><path d="M780 462h90" stroke="#526774" stroke-width="7" stroke-linecap="round"/><path d="M878 462h171" stroke="#526774" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1048 458V377m0 0-18 18m18-18 18 18" stroke="#00E87A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="280" fill="#00E87A" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">PERFORMANCE / LCP</text>
+  <text x="72" y="355" fill="#F5F8FA" font-family="Arial,sans-serif" font-size="52" font-weight="700">Find the slowest step.</text>
+  <text x="76" y="401" fill="#AABAC4" font-family="Arial,sans-serif" font-size="25">Trace the page’s LCP element.</text><path d="M78 456h110" stroke="#00E87A" stroke-width="5" stroke-linecap="round"/>
+</svg>

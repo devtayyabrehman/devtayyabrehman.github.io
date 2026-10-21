@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12131B"/>
+  <rect x="825" y="-90" width="430" height="430" rx="90" transform="rotate(28 825 -90)" fill="#2A2021"/>
+  <text x="72" y="115" fill="#72DDB1" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">SERVER &amp; HOSTING</text>
+  <text x="72" y="205" fill="#F4F2F8" font-family="Arial,sans-serif" font-size="43" font-weight="700">Debug SSH</text>
+  <text x="72" y="262" fill="#F4F2F8" font-family="Arial,sans-serif" font-size="43" font-weight="700">Connection Errors</text>
+  <text x="75" y="327" fill="#B8B6C2" font-family="Arial,sans-serif" font-size="22">Separate timeout, host identity, and key failures.</text>
+  <rect x="782" y="180" width="340" height="248" rx="20" fill="#171820" stroke="#8C7BEB" stroke-width="3"/>
+  <text x="817" y="230" fill="#B9A8FF" font-family="monospace" font-size="22">$ ssh -vvv host</text>
+  <path d="M818 272h263" stroke="#393644" stroke-width="2"/>
+  <circle cx="840" cy="316" r="10" fill="#69D8AA"/><text x="866" y="323" fill="#E1E2E9" font-family="monospace" font-size="18">network reached</text>
+  <circle cx="840" cy="367" r="10" fill="#F2BF62"/><text x="866" y="374" fill="#E1E2E9" font-family="monospace" font-size="18">inspect offered key</text>
+  <text x="72" y="545" fill="#9697A4" font-family="Arial,sans-serif" font-size="18">A diagnostic sequence for Mac and Windows OpenSSH</text>
+</svg>

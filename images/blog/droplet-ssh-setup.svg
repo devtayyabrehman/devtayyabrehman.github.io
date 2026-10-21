@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#10141C"/>
+  <circle cx="1010" cy="106" r="210" fill="#1B2A3D"/>
+  <text x="72" y="115" fill="#7DBBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">SERVER &amp; HOSTING</text>
+  <text x="72" y="205" fill="#F4F6F9" font-family="Arial,sans-serif" font-size="46" font-weight="700">Create a Droplet</text>
+  <text x="72" y="265" fill="#F4F6F9" font-family="Arial,sans-serif" font-size="46" font-weight="700">Connect with SSH</text>
+  <text x="75" y="330" fill="#B6C2D2" font-family="Arial,sans-serif" font-size="23">macOS Terminal · Windows PowerShell</text>
+  <rect x="730" y="177" width="360" height="260" rx="22" fill="#171E29" stroke="#5B9FEA" stroke-width="3"/>
+  <rect x="730" y="177" width="360" height="46" rx="22" fill="#232E3D"/>
+  <circle cx="765" cy="200" r="7" fill="#F27B76"/><circle cx="792" cy="200" r="7" fill="#E8C36A"/><circle cx="819" cy="200" r="7" fill="#62D29D"/>
+  <text x="766" y="278" fill="#73E3B4" font-family="monospace" font-size="22">$ ssh deploy@server</text>
+  <text x="766" y="324" fill="#D6E0EC" font-family="monospace" font-size="19">Identity verified</text>
+  <text x="766" y="364" fill="#9EB0C6" font-family="monospace" font-size="19">Ubuntu · ready</text>
+  <path d="M828 491h150m-20-20 20 20-20 20" stroke="#6BE0AE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="545" fill="#92A2B5" font-family="Arial,sans-serif" font-size="18">Key-based access with a careful first-login checklist</text>
+</svg>

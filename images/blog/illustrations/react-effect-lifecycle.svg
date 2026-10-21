@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#15182A"/>
+  <text x="72" y="92" fill="#F2F2FC" font-family="Arial,sans-serif" font-size="34" font-weight="700">A repeatable Effect lifecycle</text>
+  <text x="72" y="132" fill="#B2B4CB" font-family="Arial,sans-serif" font-size="20">An Effect synchronizes React with an external system.</text>
+  <rect x="72" y="226" width="218" height="136" fill="#20243C" stroke="#929CFF" stroke-width="2"/>
+  <text x="101" y="278" fill="#B3BBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">RENDER</text>
+  <text x="101" y="320" fill="#F2F2FC" font-family="Arial,sans-serif" font-size="20">Read dependencies</text>
+  <path d="M305 294h46m-15-15 15 15-15 15" stroke="#A3ACFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="364" y="226" width="218" height="136" fill="#20243C" stroke="#929CFF" stroke-width="2"/>
+  <text x="393" y="278" fill="#B3BBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">SETUP</text>
+  <text x="393" y="320" fill="#F2F2FC" font-family="Arial,sans-serif" font-size="20">Connect / subscribe</text>
+  <path d="M597 294h46m-15-15 15 15-15 15" stroke="#A3ACFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="656" y="226" width="218" height="136" fill="#20243C" stroke="#929CFF" stroke-width="2"/>
+  <text x="685" y="278" fill="#B3BBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">SYNCHRONIZE</text>
+  <text x="685" y="320" fill="#F2F2FC" font-family="Arial,sans-serif" font-size="20">External system</text>
+  <path d="M889 294h46m-15-15 15 15-15 15" stroke="#A3ACFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="948" y="226" width="180" height="136" fill="#20243C" stroke="#929CFF" stroke-width="2"/>
+  <text x="976" y="278" fill="#B3BBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">CLEAN UP</text>
+  <text x="976" y="320" fill="#F2F2FC" font-family="Arial,sans-serif" font-size="20">Before resync</text>
+  <path d="M1038 380v62H473v-57" stroke="#69739C" stroke-width="3"/>
+  <path d="m462 397 11-12 11 12" stroke="#69739C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="505" fill="#CFD0E0" font-family="Arial,sans-serif" font-size="20">User actions belong in event handlers; Effects respond to rendering and dependency changes.</text>
+</svg>

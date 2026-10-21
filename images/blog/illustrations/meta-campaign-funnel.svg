@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#10141D"/>
+  <text x="72" y="84" fill="#F0F3F9" font-family="Arial,sans-serif" font-size="30" font-weight="700">Match Objective, Destination, and Success Measure</text>
+  <text x="72" y="120" fill="#A9B4C7" font-family="Arial,sans-serif" font-size="18">A lead event is not the same as a qualified opportunity.</text>
+  <rect x="73" y="178" width="250" height="229" rx="18" fill="#1A2030" stroke="#4D8EFF"/>
+  <text x="101" y="219" fill="#80AAFF" font-family="Arial,sans-serif" font-size="15" font-weight="700">AWARENESS</text>
+  <text x="101" y="267" fill="#E4EAF4" font-family="Arial,sans-serif" font-size="19" font-weight="700">Reach people</text>
+  <text x="101" y="311" fill="#BEC9DB" font-family="Arial,sans-serif" font-size="16">Measure attention</text>
+  <text x="101" y="344" fill="#BEC9DB" font-family="Arial,sans-serif" font-size="16">and relevant reach</text>
+  <text x="101" y="386" fill="#8FA0B9" font-family="Arial,sans-serif" font-size="14">Not direct lead volume</text>
+  <path d="M338 292h58m-14-14 14 14-14 14" stroke="#8899B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="411" y="178" width="250" height="229" rx="18" fill="#1B1724" stroke="#A78BFA"/>
+  <text x="439" y="219" fill="#C2A9FF" font-family="Arial,sans-serif" font-size="15" font-weight="700">CONSIDERATION</text>
+  <text x="439" y="267" fill="#E8E2F0" font-family="Arial,sans-serif" font-size="19" font-weight="700">Explain the offer</text>
+  <text x="439" y="311" fill="#C6BDCE" font-family="Arial,sans-serif" font-size="16">Useful destination</text>
+  <text x="439" y="344" fill="#C6BDCE" font-family="Arial,sans-serif" font-size="16">and clear next step</text>
+  <text x="439" y="386" fill="#9E91B2" font-family="Arial,sans-serif" font-size="14">Website · message · form</text>
+  <path d="M676 292h58m-14-14 14 14-14 14" stroke="#8899B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="749" y="178" width="250" height="229" rx="18" fill="#17211C" stroke="#00E87A"/>
+  <text x="777" y="219" fill="#00E87A" font-family="Arial,sans-serif" font-size="15" font-weight="700">LEAD</text>
+  <text x="777" y="267" fill="#E3EEE6" font-family="Arial,sans-serif" font-size="19" font-weight="700">Capture interest</text>
+  <text x="777" y="311" fill="#BDCDC1" font-family="Arial,sans-serif" font-size="16">Validate delivery</text>
+  <text x="777" y="344" fill="#BDCDC1" font-family="Arial,sans-serif" font-size="16">and contact quickly</text>
+  <text x="777" y="386" fill="#92A99A" font-family="Arial,sans-serif" font-size="14">Track qualified outcomes</text>
+  <rect x="72" y="456" width="1056" height="85" rx="15" fill="#0B0E14" stroke="#343D4C"/>
+  <text x="101" y="493" fill="#DCE3EF" font-family="Arial,sans-serif" font-size="18" font-weight="700">Audience is a hypothesis; the offer and follow-up complete the journey.</text>
+  <text x="101" y="521" fill="#9DAABD" font-family="Arial,sans-serif" font-size="16">Review the current Ads Manager controls—objective names and options can change.</text>
+</svg>

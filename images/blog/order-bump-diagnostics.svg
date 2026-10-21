@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#151319"/>
+  <text x="72" y="115" fill="#C293EF" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">WOOCOMMERCE DEBUGGING</text>
+  <text x="72" y="202" fill="#F4F1F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Order Bump</text>
+  <text x="72" y="258" fill="#F4F1F7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Not Showing?</text>
+  <text x="75" y="325" fill="#B8B4C0" font-family="Arial,sans-serif" font-size="22">Test the product, rule, checkout, and request.</text>
+  <path d="M814 178h260l-46 80H860l-46-80Z" fill="#25202E" stroke="#B789E8" stroke-width="3"/>
+  <path d="M860 275h168l-35 70h-98l-35-70Z" fill="#20262D" stroke="#72B3ED" stroke-width="3"/>
+  <path d="M895 363h98l-28 58h-42l-28-58Z" fill="#1C2921" stroke="#69D99F" stroke-width="3"/>
+  <text x="886" y="230" fill="#E2D1F2" font-family="Arial,sans-serif" font-size="17">Product + stock</text>
+  <text x="880" y="321" fill="#D7E7F5" font-family="Arial,sans-serif" font-size="17">Offer conditions</text>
+  <text x="912" y="401" fill="#D9EFE0" font-family="Arial,sans-serif" font-size="15">Order test</text>
+  <text x="72" y="545" fill="#92909A" font-family="Arial,sans-serif" font-size="18">An SKU is only a cause if the extension's selector uses it</text>
+</svg>

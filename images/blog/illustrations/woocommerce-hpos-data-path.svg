@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#10231F"/>
+  <text x="72" y="92" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="34" font-weight="700">Use WooCommerce APIs for order data</text>
+  <rect x="72" y="210" width="245" height="152" fill="#172D27" stroke="#55D9A5" stroke-width="2"/>
+  <text x="103" y="260" fill="#6DE6B9" font-family="Arial,sans-serif" font-size="20" font-weight="700">STORE WORKFLOW</text>
+  <text x="103" y="304" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">Report / webhook /</text>
+  <text x="103" y="334" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">fulfilment plugin</text>
+  <path d="M330 286h75m-18-18 18 18-18 18" stroke="#62E2B0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="420" y="210" width="318" height="152" fill="#172D27" stroke="#55D9A5" stroke-width="2"/>
+  <text x="452" y="260" fill="#6DE6B9" font-family="Arial,sans-serif" font-size="20" font-weight="700">WOOCOMMERCE CRUD</text>
+  <text x="452" y="304" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">Read / update orders with</text>
+  <text x="452" y="334" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">supported order methods</text>
+  <path d="M751 286h75m-18-18 18 18-18 18" stroke="#62E2B0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="840" y="210" width="288" height="152" fill="#172D27" stroke="#55D9A5" stroke-width="2"/>
+  <text x="872" y="260" fill="#6DE6B9" font-family="Arial,sans-serif" font-size="20" font-weight="700">STORAGE LAYER</text>
+  <text x="872" y="304" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">HPOS or legacy store</text>
+  <text x="872" y="334" fill="#F0F5F2" font-family="Arial,sans-serif" font-size="20">managed by WooCommerce</text>
+  <path d="M72 436h1056" stroke="#456058" stroke-width="2"/>
+  <text x="72" y="493" fill="#CFDDD3" font-family="Arial,sans-serif" font-size="20">Direct post-table assumptions can bypass the storage abstraction and break compatibility.</text>
+  <text x="72" y="537" fill="#6DE6B9" font-family="Arial,sans-serif" font-size="20" font-weight="700">Inventory reads and writes, then test real order workflows on staging.</text>
+</svg>

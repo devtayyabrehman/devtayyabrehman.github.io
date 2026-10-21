@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#1B1710"/>
+  <text x="76" y="96" fill="#FBF4E8" font-family="Arial,sans-serif" font-size="34" font-weight="700">Reliable Automation Has a Recovery Path</text>
+  <text x="76" y="137" fill="#C6B79D" font-family="Arial,sans-serif" font-size="20">Schedule, execute, record, and retry safely.</text>
+  <circle cx="178" cy="320" r="74" fill="#272014" stroke="#F5A623" stroke-width="3"/>
+  <path d="M178 273v48l35 23" stroke="#F5A623" stroke-width="8" stroke-linecap="round"/>
+  <text x="113" y="428" fill="#E8D9BC" font-family="Arial,sans-serif" font-size="18" font-weight="700">SCHEDULE</text>
+  <path d="M278 320h125m-18-17 18 17-18 17" stroke="#BDA77D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="418" y="247" width="214" height="146" rx="20" fill="#211C13" stroke="#F5A623" stroke-width="2"/>
+  <text x="450" y="297" fill="#F5A623" font-family="Arial,sans-serif" font-size="18" font-weight="700">QUEUE</text>
+  <text x="450" y="341" fill="#F6F0E5" font-family="Arial,sans-serif" font-size="23" font-weight="700">Due work</text>
+  <text x="450" y="371" fill="#B9AC94" font-family="Arial,sans-serif" font-size="17">Unique job ID</text>
+  <path d="M652 320h99m-18-17 18 17-18 17" stroke="#BDA77D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="766" y="247" width="198" height="146" rx="20" fill="#211C13" stroke="#00E87A" stroke-width="2"/>
+  <text x="796" y="297" fill="#00E87A" font-family="Arial,sans-serif" font-size="18" font-weight="700">RUN</text>
+  <text x="796" y="341" fill="#F6F0E5" font-family="Arial,sans-serif" font-size="22" font-weight="700">Do the work</text>
+  <text x="796" y="371" fill="#B9AC94" font-family="Arial,sans-serif" font-size="17">Idempotent task</text>
+  <path d="M984 320h57m-18-17 18 17-18 17" stroke="#BDA77D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1056" y="247" width="75" height="146" rx="18" fill="#211C13" stroke="#4D8EFF" stroke-width="2"/>
+  <text x="1074" y="302" fill="#79A9FF" font-family="Arial,sans-serif" font-size="15" font-weight="700">LOG</text>
+  <text x="1072" y="349" fill="#E0E8F7" font-family="Arial,sans-serif" font-size="14">OK</text>
+  <text x="1072" y="376" fill="#E0E8F7" font-family="Arial,sans-serif" font-size="14">Retry</text>
+  <rect x="76" y="493" width="1055" height="68" rx="15" fill="#17130E" stroke="#52442D"/>
+  <text x="108" y="537" fill="#E8D9BC" font-family="Arial,sans-serif" font-size="20">WP-Cron runs when triggered; a system scheduler can improve timing.</text>
+</svg>

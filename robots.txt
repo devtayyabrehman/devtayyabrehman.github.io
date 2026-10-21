@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devtayyabrehman.github.io/sitemap.xml

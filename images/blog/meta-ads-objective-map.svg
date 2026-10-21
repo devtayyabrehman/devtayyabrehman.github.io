@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="28" fill="#121722"/>
+  <text x="76" y="96" fill="#F0F3F9" font-family="Arial,sans-serif" font-size="34" font-weight="700">Pick the Campaign Job Before the Audience</text>
+  <text x="76" y="137" fill="#AAB5C8" font-family="Arial,sans-serif" font-size="20">Different objectives call for different measures.</text>
+  <rect x="76" y="218" width="236" height="184" rx="22" fill="#1D2130" stroke="#4D8EFF" stroke-width="2"/>
+  <circle cx="194" cy="275" r="27" fill="#4D8EFF" fill-opacity=".18" stroke="#4D8EFF" stroke-width="2"/>
+  <path d="M194 261v28m-14-14h28" stroke="#80ABFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="112" y="342" fill="#F0F3F9" font-family="Arial,sans-serif" font-size="22" font-weight="700">Awareness</text>
+  <text x="112" y="375" fill="#AAB5C8" font-family="Arial,sans-serif" font-size="17">Reach · attention</text>
+  <rect x="345" y="218" width="236" height="184" rx="22" fill="#211D2C" stroke="#A78BFA" stroke-width="2"/>
+  <path d="M463 251a29 29 0 1 0 29 29" stroke="#C2A9FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="m480 253 13 4-4-13" stroke="#C2A9FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="381" y="342" fill="#F3EFF9" font-family="Arial,sans-serif" font-size="22" font-weight="700">Engagement</text>
+  <text x="381" y="375" fill="#B8ADC9" font-family="Arial,sans-serif" font-size="17">Meaningful action</text>
+  <rect x="614" y="218" width="236" height="184" rx="22" fill="#19231E" stroke="#00E87A" stroke-width="2"/>
+  <rect x="706" y="252" width="52" height="48" rx="7" stroke="#00E87A" stroke-width="3"/>
+  <path d="m711 260 21 17 21-17" stroke="#00E87A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="650" y="342" fill="#EDF5EF" font-family="Arial,sans-serif" font-size="22" font-weight="700">Leads</text>
+  <text x="650" y="375" fill="#B2C5B8" font-family="Arial,sans-serif" font-size="17">Valid · qualified</text>
+  <rect x="883" y="218" width="241" height="184" rx="22" fill="#251D16" stroke="#F5A623" stroke-width="2"/>
+  <path d="M983 286h42m-21-21v42" stroke="#F5A623" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="1004" cy="282" r="30" stroke="#F5A623" stroke-width="2"/>
+  <text x="919" y="342" fill="#F7F0E5" font-family="Arial,sans-serif" font-size="22" font-weight="700">Sales</text>
+  <text x="919" y="375" fill="#C9B89C" font-family="Arial,sans-serif" font-size="17">Orders · revenue</text>
+  <path d="M194 402v59h810v-59" stroke="#485365" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="76" y="483" width="1048" height="76" rx="16" fill="#0C1017" stroke="#334054"/>
+  <text x="108" y="530" fill="#DCE3EF" font-family="Arial,sans-serif" font-size="20">Measure the outcome after submission; lead volume alone is not lead quality.</text>
+</svg>

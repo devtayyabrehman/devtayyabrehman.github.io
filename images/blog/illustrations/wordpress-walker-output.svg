@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#12141B"/>
+  <text x="72" y="85" fill="#F1F4F7" font-family="Arial,sans-serif" font-size="31" font-weight="700">A custom walker renders menu structure, not menu policy</text>
+  <rect x="72" y="185" width="280" height="275" rx="18" fill="#1C1A26" stroke="#B58AF2" stroke-width="3"/>
+  <text x="104" y="233" fill="#D1A7FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">MENU EDITOR</text>
+  <text x="104" y="294" fill="#E7E2EF" font-family="Arial,sans-serif" font-size="18">Projects</text>
+  <text x="134" y="337" fill="#C5BBD0" font-family="Arial,sans-serif" font-size="17">Archive</text>
+  <text x="134" y="378" fill="#C5BBD0" font-family="Arial,sans-serif" font-size="17">Case study</text>
+  <text x="104" y="424" fill="#A9A1B5" font-family="Arial,sans-serif" font-size="16">Parent + nested items</text>
+  <path d="M371 320h113m-18-18 18 18-18 18" stroke="#A698C0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="520" y="185" width="290" height="275" rx="18" fill="#1B202B" stroke="#6AAFFF" stroke-width="3"/>
+  <text x="553" y="233" fill="#85BCFF" font-family="Arial,sans-serif" font-size="19" font-weight="700">WALKER METHODS</text>
+  <text x="553" y="300" fill="#E4EAF2" font-family="monospace" font-size="18">start_el()</text>
+  <text x="553" y="345" fill="#E4EAF2" font-family="monospace" font-size="18">start_lvl()</text>
+  <text x="553" y="400" fill="#AFBBCB" font-family="Arial,sans-serif" font-size="16">Escape links and labels</text>
+  <path d="M830 320h95m-18-18 18 18-18 18" stroke="#A698C0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="954" y="215" width="190" height="210" rx="18" fill="#18241E" stroke="#58D3A0" stroke-width="3"/>
+  <text x="980" y="263" fill="#76E4B3" font-family="Arial,sans-serif" font-size="18" font-weight="700">HTML</text>
+  <text x="980" y="314" fill="#E3ECE6" font-family="monospace" font-size="17">&lt;nav&gt;</text>
+  <text x="980" y="352" fill="#E3ECE6" font-family="monospace" font-size="17">&lt;ul&gt; &lt;li&gt;</text>
+  <text x="980" y="390" fill="#E3ECE6" font-family="monospace" font-size="17">&lt;a href&gt;</text>
+  <text x="72" y="530" fill="#B9C0CA" font-family="Arial,sans-serif" font-size="18">CSS classes alone may be easier to add with core filters.</text>
+</svg>
